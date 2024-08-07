@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chiragsh146@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1-M41JcHAKMdyqFyVvaVO7nIs8dDLK83j/edit?usp=drive_link&ouid=108909646748988774362&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
