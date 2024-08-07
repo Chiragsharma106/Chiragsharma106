@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragsharma106&label=Profile%20views&color=0e75b6&style=flat" alt="chiragsharma106" /> </p>
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [link](https://github.com/Chiragsharma106?tab=repositories)
 
 - 📫 How to reach me **chiragsh146@gmail.com**
 
